@@ -1,0 +1,2 @@
+banner klasörü kütüphane olarak yazılmış olup, dosya ayarları yapılmıştır. 
+"npm run build" ile dist klasörü oluşturulması yeterli olacaktır.
